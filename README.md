@@ -15,7 +15,7 @@ The system processes real-time sensor metrics (such as vehicle velocity, battery
 
 ## 🏗️ System Architecture & Data Flow
 
-<img width="2720" height="2704" alt="stm32_telemetry_data_flow" src="https://github.com/user-attachments/assets/a2cf3d58-7563-4223-a71a-dc8f8e117117" />
+<img width="1440" height="1080" alt="image" src="https://github.com/user-attachments/assets/84502d2c-3dad-4ae3-b175-81b14c219ad6" />
 
 
 ```text
